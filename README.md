@@ -30,6 +30,8 @@ Ready-to-run code for experimentation
 
 3. Sentement_Analysis.ipynb
 
+Data_Set_For_Sentiment_Analysis:===> https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews?select=Reviews.csv
+
 Description:
 This project focuses on sentiment analysis, a key task in NLP that classifies text as positive, negative, or neutral. The notebook walks through data cleaning, feature extraction, model training, and performance evaluation. It uses real text data and visualizations to show how sentiment models interpret language.
 
